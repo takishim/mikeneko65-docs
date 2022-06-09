@@ -89,6 +89,7 @@ Mikeneko65のキットの組み立て手順を説明します。
 1. **JSTケーブルをUSB-Cドーターボードに接続**  
    ![JSTケーブルをUSB-Cドーターボードに接続](./image/buildguid_jp_100_udbjst.jpg "JSTケーブルをUSB-Cドーターボードに接続")
    JSTケーブルをUSB-Cドーターボードに接続します  
+   ![JSTケーブルをUSB-Cドーターボードに接続2](./image/buildguid_jp_105_udbjst.jpg "JSTケーブルをUSB-Cドーターボードに接続2")
    JSTケーブルのコネクタは裏表があるので、写真を参考にして端子が露出していない面を上側にして挿します  
 1. **USB-Cドーターボードの取り付け**  
    ![USB-Cドーターボードの取り付け](./image/buildguid_jp_110_udb.jpg "USB-Cドーターボードの取り付け")
@@ -107,6 +108,7 @@ Mikeneko65のキットの組み立て手順を説明します。
 1. **JSTケーブルをメインPCBに接続**  
    ![JSTケーブルをメインPCBに接続](./image/buildguid_jp_140_casefoam.jpg "JSTケーブルをメインPCBに接続")
    メインPCBの裏面にあるJSTコネクタ(ベージュ色)にJSTケーブルのコネクタを挿します  
+   ![JSTケーブルをメインPCBに接続2](./image/buildguid_jp_145_casefoam.jpg "JSTケーブルをメインPCBに接続2")
    JSTケーブルのコネクタは裏表があるので、写真を参考にして端子が露出していない面を上側にして挿します  
 1. **メインPCBをケースに取り付け**  
    ![メインPCBをケースに取り付け](./image/buildguid_jp_150_mainpcbcase.jpg "メインPCBをケースに取り付け")
