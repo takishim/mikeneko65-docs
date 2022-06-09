@@ -37,9 +37,9 @@ Mikeneko65のキットの組み立て手順を説明します。
 | 工具 | 用途 | 必要性 | 製品例 |
 | ----- | ----- | ----- | ----- |
 | プラスドライバー(No.0サイズ) | USB-Cドーターボードを取り付ける | 必須 | 汎用品でOK |
-| キースイッチプラー | キースイッチを引き抜く | キースイッチを交換するなら必須 | [Kbdfans Switch and Keycaps Puller](https://kbdfans.com/products/kbdfans-switch-and-keycaps-puller?variant=39615445827723) |
+| キースイッチプラー | キースイッチを引き抜く | キースイッチを交換するならほぼ必須 | [Kbdfans Switch and Keycaps Puller](https://kbdfans.com/products/kbdfans-switch-and-keycaps-puller?variant=39615445827723) |
 | キースイッチオープナー | キースイッチを分解する | キースイッチをルブするならほぼ必須 | [Gateron Switch Opener](https://kbdfans.com/products/gateron-switch-opener) <br> [KBDFANS x ai03 2in1 Aluminum Switch Opener](https://kbdfans.com/products/gb-2-in-1-machined-aluminum-switch-opener) |
-| キーキャッププラー | キーキャップを取り外す | キーキャップを交換するならほぼ必須 | [Kbdfans Switch and Keycaps Puller](https://kbdfans.com/products/kbdfans-switch-and-keycaps-puller?variant=39615445827723) |
+| キーキャッププラー | キーキャップを取り外す | キーキャップを交換するならあったほうがいい | [Kbdfans Switch and Keycaps Puller](https://kbdfans.com/products/kbdfans-switch-and-keycaps-puller?variant=39615445827723) |
 | ラジオペンチ | キースイッチのピンを調整する | ピンを調整するなら必須 | 汎用品でOK |
 | 丸筆(0号) | キースイッチやスタビライザーをルブする | ルブするなら必須 | [Kbdfans Lube Tools Collection](https://kbdfans.com/products/kbdfans-lube-tools-collection) |
 | ステムホルダー | ステムにルブする際にステムを掴む | あると便利 | [Kbdfans Lube Tools Collection](https://kbdfans.com/products/kbdfans-lube-tools-collection) |
@@ -130,11 +130,12 @@ Mikeneko65のキットの組み立て手順を説明します。
 - **手で取り外す**  
   ![PCBの取り外し1](./image/dismount_pcb1.jpg "PCBの取り外し1")
   キーキャップを取り付けた状態で、最上段の8つのキーキャップに指を掛けてゆっくり上に持ち上げます  
+  固い場合は無理をせず、下記のキーキャッププラーを使う方法で取り外してください  
 - **キーキャッププラーで取り外す**  
   ![PCBの取り外し2](./image/dismount_pcb2.jpg "PCBの取り外し2")
-  固い場合は無理をせず、1キー、2キー、-キー、=キーのキーキャップを外し、プレートの切り欠きにキースイッチプラーを引っ掛けて、左右交互に少しずつ持ち上げます  
+  1キー、2キー、-キー、=キーのキーキャップを外し、プレートの切り欠きにキースイッチプラーを引っ掛けて、左右交互に少しずつ持ち上げます  
   
-  メインPCBがアルミケースから外れたら、メインPCBを少し持ち上げて、メインPCB側のJSTケーブルを外します  
+  メインPCBがアルミケースから外れたら、メインPCBを少し持ち上げて、メインPCB側のコネクタからJSTケーブルを外します  
   ※ JSTケーブルを外さないままメインPCBを一気に持ち上げると、コネクタが破損したりJSTケーブルが断線するので注意してください
 
 ## ご注意
