@@ -16,7 +16,7 @@ Mikeneko65のキットの組み立て手順を説明します。
 | 6 | ケースフォーム | ポロン、1.5mm厚 | 1枚 |
 | 7 | ソケットフォーム | ポロン、1.5mm厚 | 1枚 |
 | 8 | Oリング | AS568-264-VMQ-A30 | 1本 |
-| 9 | USB-Cドーターボード | [Unified Daughterboard C3](https://github.com/ai03-2725/Unified-Daughterboard) developed by ai03 | 1枚 |
+| 9 | USB-Cドーターボード | [Unified Daughterboard C3](https://github.com/ai03-2725/Unified-Daughterboard) | 1枚 |
 | 10 | JSTケーブル | JST-SH、4pin、両端メスコネクタ、逆方向タイプ、10cm | 1本 |
 | 11 | ネジ | m2 4mm、USB-Cドーターボード取り付け用 | 4本 |
 | 12 | ゴム足 | 3M SJ5302、直径8mm、高さ2mm | 4個 |
