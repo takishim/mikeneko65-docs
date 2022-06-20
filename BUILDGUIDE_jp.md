@@ -44,7 +44,7 @@ Mikeneko65のキットの組み立て手順を説明します。
 | 丸筆(0号) | キースイッチやスタビライザーをルブする | ルブするなら必須 | [Kbdfans Lube Tools Collection](https://kbdfans.com/products/kbdfans-lube-tools-collection) |
 | ステムホルダー | ステムにルブする際にステムを掴む | あると便利 | [Kbdfans Lube Tools Collection](https://kbdfans.com/products/kbdfans-lube-tools-collection) |
 | ピンセット | ネジの保持など | あると便利 | [Kbdfans Lube Tools Collection](https://kbdfans.com/products/kbdfans-lube-tools-collection) |
-| 水糊と平筆 | ソケットフォームの貼り付け | おすすめ | 百均のもので充分 |
+| 水糊と平筆 | ソケットフォームの貼り付け | おすすめ | 百均のものでOK |
 
 
 ## 組み立て手順
