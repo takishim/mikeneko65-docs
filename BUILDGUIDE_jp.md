@@ -44,7 +44,6 @@ Mikeneko65のキットの組み立て手順を説明します。
 | 丸筆(0号) | キースイッチやスタビライザーをルブする | ルブするなら必須 | [Kbdfans Lube Tools Collection](https://kbdfans.com/products/kbdfans-lube-tools-collection) |
 | ステムホルダー | ステムにルブする際にステムを掴む | あると便利 | [Kbdfans Lube Tools Collection](https://kbdfans.com/products/kbdfans-lube-tools-collection) |
 | ピンセット | ネジの保持など | あると便利 | [Kbdfans Lube Tools Collection](https://kbdfans.com/products/kbdfans-lube-tools-collection) |
-| 水糊と平筆 | ソケットフォームの貼り付け | おすすめ | 百均のものでOK |
 
 
 ## 組み立て手順
@@ -102,9 +101,9 @@ Mikeneko65のキットの組み立て手順を説明します。
    ![ソケットフォームの取り付け](./image/buildguid_jp_120_socketfoam.jpg "ソケットフォームの取り付け")
    ソケットフォームの接着面のフィルムをはがし、メインPCBの裏面に貼り付けます  
    ソケットフォームの両端を両手で持ち、真上から見て穴の位置を合わせてメインPCBに置きます  
-   この時、フォームが変形するほど強く引っ張らないでください  
-   必須ではありませんが、ソケットフォームの接着面に平筆などで水糊を塗っておくと、水糊が乾燥するまではやり直すことができます  
-   水糊を使った場合は充分に乾かしてから通電してください  
+   この時、ソケットフォームを引っ張ると変形して位置が合いませんので、軽く持って乗せるように貼り付けます  
+   自己責任にはなりますが、霧吹きでうっすら接着面を湿らせて水貼りすると調整しやすくなります  
+   水貼りした場合は完全に乾かしてから通電してください  
    一度しっかり貼り付くときれいに剥がせませんので、多少ずれていても無理に剥がさないことをおすすめします  
 1. **ケースフォームの取り付け**  
    ![USB-Cドーターボードをケースに取り付け](./image/buildguid_jp_130_udbcase.jpg "USB-Cドーターボードをケースに取り付け")
