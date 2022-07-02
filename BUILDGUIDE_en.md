@@ -37,11 +37,11 @@ Please prepare the following parts and tools separately from the kit
 ### Tools
 | Name | Use | Necessity | Example |
 | ----- | ----- | ----- | ----- |
-| Phillips screwdriver (No.0 size) | Install the USB-C daughter board | Required | General purpose item |
+| Phillips screwdriver (No.0) | Install the USB-C daughter board | Required | General purpose item |
 | Key switch puller | Pull out the key switch | Almost required if replacing key switches | [Kbdfans Switch and Keycaps Puller](https://kbdfans.com/products/kbdfans-switch-and-keycaps-puller?variant=39615445827723) |
 | Key switch opener | Disassemble the key switch | Almost required if lubricating key switches | [Gateron Switch Opener](https://kbdfans.com/products/gateron-switch-opener) <br> [KBDFANS x ai03 2in1 Aluminum Switch Opener](https://kbdfans.com/products/gb-2-in-1-machined-aluminum-switch-opener) |
 | Keycap puller | Remove the keycap | Better to have it if replacing keycaps | [Kbdfans Switch and Keycaps Puller](https://kbdfans.com/products/kbdfans-switch-and-keycaps-puller?variant=39615445827723) |
-| Needle-nose pliers | Adjust key switch pins | Required if adjusting pins | General purpose item |
+| Longnose pliers | Adjust key switch pins | Required if adjusting pins | General purpose item |
 | Round brush (No.0) | Lubricate key switches and stabilizers | Required if lubricating | [Kbdfans Lube Tools Collection](https://kbdfans.com/products/kbdfans-lube-tools-collection) |
 | Stem holder | Grab a stem when lubricating the stem | Convenient to have | [Kbdfans Lube Tools Collection](https://kbdfans.com/products/kbdfans-lube-tools-collection) |
 | Tweezers | Holding screws, etc | Convenient to have | [Kbdfans Lube Tools Collection](https://kbdfans.com/products/kbdfans-lube-tools-collection) |
