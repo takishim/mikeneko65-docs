@@ -1,5 +1,5 @@
 # Build Guide
-Instructions for assembling the Mikeneko65 kit are given below
+Instructions for assembling the Mikeneko65 kit are given below.
 
 ## Checking the contents of the kit
 The parts included in the kit are listed below.  
@@ -10,7 +10,7 @@ If any parts are missing or damaged, please let us know before assembling.
 | No | Parts | Specification | Quantity |
 | ----- | ----- | ----- | ----- |
 | 1 | Aluminum case | Aluminum | 1 |
-| 2 | main PCB | Hotswap socket compatible, 1.6 mm thick | 1 |
+| 2 | Main PCB | Hotswap socket compatible, 1.6 mm thick | 1 |
 | 3 | Plate | Polycarbonate, 1.5mm thick | 1 |
 | 4 | PCB foam | Poron, 3mm thick | 1 |
 | 5 | Switch foam | Polyethylene or Poron, 0.5mm thick | 1 |
