@@ -7,7 +7,7 @@ If any parts are missing or damaged, please let us know before assembling.
 
 ![Kit](./image/kit.jpg "Kit")
 
-| No | Parts | Specification | Quantity |
+| No | Name | Spec | Quantity |
 | ----- | ----- | ----- | ----- |
 | 1 | Aluminum case | Aluminum | 1 |
 | 2 | Main PCB | Hotswap socket compatible, 1.6 mm thick | 1 |
@@ -22,17 +22,17 @@ If any parts are missing or damaged, please let us know before assembling.
 | 11 | Screws | m2 4mm, for USB-C daughter board | 4 |
 | 12 | Rubber feet | 3M SJ5302, diameter 8mm, height 2mm | 4 |
 
-## 別途用意するもの
-キットとは別に下記のパーツや工具を用意してください
+## Items to be prepared separately
+Please prepare the following parts and tools separately from the kit  
 
-### パーツ
-| パーツ | 仕様 | 数量 |
+### Parts
+| Name | Spec | Quantity |
 | ----- | ----- | ----- |
-| キースイッチ | CherryMX互換キースイッチ、5ピン推奨 | 67個 |
-| キーキャップ | CherryMX互換キーキャップ、要1.75U Shiftキー | 67個 |
-| スタビライザー | Durock V2など | 6.25U 1セット、2U 3セット |
-| USBケーブル | キーボード側のコネクタはUSB-C | 1本 |
-| ルブ用グリス | Krytox 205g0推奨 | 適量 |
+| Key switch | CherryMX互換キースイッチ、5ピン推奨 | 67 |
+| キーキャップ | CherryMX互換キーキャップ、要1.75U Shiftキー | 67 |
+| スタビライザー | Durock V2など | 6.25U 1セット、2U 3 set |
+| USBケーブル | キーボード側のコネクタはUSB-C | 1 |
+| ルブ用グリス | Krytox 205g0推奨 | several grams |
 
 ### 工具
 | 工具 | 用途 | 必要性 | 製品例 |
