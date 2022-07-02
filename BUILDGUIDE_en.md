@@ -1,5 +1,5 @@
 # Build Guide
-Instructions for assembling the Mikeneko65 kit are given below.
+Instructions for assembling Mikeneko65 kit are given below.
 
 ## Checking the contents of the kit
 The parts included in the kit are listed below.  
