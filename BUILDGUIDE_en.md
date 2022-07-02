@@ -68,13 +68,13 @@ Please prepare the following parts and tools separately from the kit
 
    **When pasting the entire surface**  
    Peel off the release paper on the adhesive surface of the socket foam, and paste the main PCB and socket foam according to the procedure you practiced.  
-   It is recommended not to peel it off.  
-   (even if it can be peeled off, the socket foam will stretch and the position will not match)  
+   Once pasted, it cannot be removed cleanly, so recommend not removing it, even if it is slightly displaced.  
+   (even if it can be removed, the socket foam will be stretched and the position will not match)  
    
    **When pasting only a part**  
    Peel off only a part of the release paper and paste it.  
    The area to peel off is about 10 square mm per place, and the place to peel off is about 7-8 places where the width is not narrow.  
-   Cut a part with scissors and paste the main PCB and socket foam according to the procedure you practiced.
+   Cut a part of the release paper with scissors and paste the main PCB and socket foam according to the procedure you practiced.
 
 1. **スタビライザーの組み立て**  
    [こちら](https://www.youtube.com/watch?v=-vhpHjlkRgQ)のYouTube動画を参考にしてください  
