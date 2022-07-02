@@ -20,7 +20,7 @@ If any parts are missing or damaged, please let us know before assembling.
 | 9 | USB-C daughter board | [Unified Daughterboard C3](https://github.com/ai03-2725/Unified-Daughterboard) | 1 |
 | 10 | JST cable | JST-SH, 4pin, double-side female connector, reverse direction, 10cm | 1 |
 | 11 | Screws | m2 4mm, for USB-C daughter board | 4 |
-| 12 | Rubber feet | 3M SJ5302, diameter 8mm, height 2mm | 4 |
+| 12 | Rubber feet(Bumpons) | 3M SJ5302, diameter 8mm, height 2mm | 4 |
 
 ## Items to be prepared separately
 Please prepare the following parts and tools separately from the kit  
@@ -48,30 +48,34 @@ Please prepare the following parts and tools separately from the kit
 
 
 ## Assembly Instructions
-1. **ゴム足の貼り付け**  
-   ![ゴム足](./image/buildguid_jp_010_bumpon.jpg "ゴム足")
-   アルミケースの底面が傷付かないように、最初にアルミケースにゴム足を取り付けておきます  
-   アルミケースの裏面の四隅の彫り込み位置に合わせてゴム足を取り付けます
-1. **ソケットフォームの貼り付け**  
-   ![ソケットフォームの取り付け](./image/buildguid_jp_120_socketfoam.jpg "ソケットフォームの取り付け")
-   ソケットフォームの貼り付けは難易度が高くやり直しが効きません  
-   全面を貼り付ける方法と一部分だけを貼り付ける方法を紹介します  
+1. **Attaching rubber feet**  
+   ![Rubber feet](./image/buildguid_jp_010_bumpon.jpg "Rubber feet")
+   First attach the rubber feet to the aluminum case so that the bottom of the aluminum case is not scratched.  
+   Attach the rubber feet according to the engraved positions on the four corners of the back of the aluminum case.  
+1. **Pasting socket foam**  
+   ![Pasting socket foam](./image/buildguid_jp_120_socketfoam.jpg "Pasting socket foam")
+   Pasting socket foam is difficult and cannot be redone.  
+   Show how to paste the entire surface and how to paste only a part of it.  
    
-   **全面を貼り付ける場合**  
-   最初は接着面の剥離紙を剥がさずに何度か練習してください  
-   ソケットフォームの接着面を上に向けて、平らな場所に置きます  
-   曲がったり浮いたりしている箇所があればまっすぐになるように修正してください  
-   メインPCBの裏面(パーツ実装面)を下に向けて、4つの角を人差し指と親指で持ちます  
-   メインPCBを真上から見て、マウントポストの切り欠きの位置を合わせながらゆっくりとメインPCBをソケットフォームに乗せます  
-   ここまでの手順を何度か練習してください  
-   ソケットフォームの接着面の剥離紙を剥がし、練習した手順でメインPCBとソケットフォームを貼り付けます  
-   一度貼り付くときれいに剥がせませんので、多少ずれても動作に支障がなければ無理に剥がさないことをおすすめします  
-   (仮に何とか剥がれてもソケットフォームが伸びてしまい、位置が合わなくなります)  
+   **Practice**  
+   First, practice several times without peeling off the release paper on the adhesive surface.  
+   ![Pasting socket foam](./image/buildguid_jp_123_socketfoam.jpg "Pasting socket foam")
+   Place the socket foam on a flat surface with the adhesive surface facing up.  
+   Straighten any bent or floating parts.  
+   ![Pasting socket foam](./image/buildguid_jp_127_socketfoam.jpg "Pasting socket foam")
+   Hold the four corners with the back side (part mounting surface) of the main PCB facing down.  
+   Looking at the main PCB from directly above, slowly align the notch of the mount post with the main PCB, put it on the foam.  
+
+   **When pasting the entire surface**  
+   Peel off the release paper on the adhesive surface of the socket foam, and paste the main PCB and socket foam according to the procedure you practiced.  
+   It is recommended not to peel it off.  
+   (even if it can be peeled off, the socket foam will stretch and the position will not match)  
    
-   **一部分だけ貼り付ける場合**  
-   剥離紙の一部だけを剥がして貼り付けます  
-   剥がす面積は1箇所あたり10平方mm以下、剥がす箇所は幅が細くない場所を7-8箇所程度でいいと思います  
-   剥離紙の一部を剥がした後にソケットフォームを貼り付ける手順は全面を貼り付ける場合と同様です  
+   **When pasting only a part**  
+   Peel off only a part of the release paper and paste it.  
+   The area to peel off is about 10 square mm per place, and the place to peel off is about 7-8 places where the width is not narrow.  
+   Cut a part with scissors and paste the main PCB and socket foam according to the procedure you practiced.
+
 1. **スタビライザーの組み立て**  
    [こちら](https://www.youtube.com/watch?v=-vhpHjlkRgQ)のYouTube動画を参考にしてください  
    ステムの外側とハウジングの内側に厚めにグリスを塗ります  
