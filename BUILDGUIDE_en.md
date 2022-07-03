@@ -114,66 +114,68 @@ Please prepare the following parts and tools separately from the kit
    (Be careful not to insert at an angle, as this may break the pins or damage the socket)  
    Make sure that there are no gaps between the plate and the keyswitch, and between the keyswitch and the main PCB, viewed from the side, and that they are evenly installed.  
 
-1. **Oリングの取り付け**  
-   メインPCBとプレートの間にOリングを取り付けます  
-   ![Oリングの取り付け](./image/buildguid_jp_090_oring.jpg "Oリングの取り付け")
-   バックスペースキーの奥側とスペースバーの手前側のスタビライザーは、プレートの切り欠きに合わせてOリングをスタビライザーの上面に通します  
-   Oリングがスタビライザーの上面に固定できない場合は、メインPCBをケースに取り付ける際に調整できるので、いったんそのまま進めてください  
-   側面から見て、メインPCBとOリングとプレートの間に隙間がないことを確認してください
+1. **Installing O-ring**  
+   Install O-ring between main PCB and plate.  
+   ![Installing O-ring](./image/buildguid_jp_090_oring.jpg "Installing O-ring")
+   
+   Around the stabilizer on the back side of the backspace key and the front side of the space bar, pass the O-ring through the top surface of the stabilizer, aligning it with the notch in the plate.  
+   If the O-ring cannot be secured to the top of the stabilizer, proceed as is once it is in place, as it can be adjusted when the main PCB is installed in the case.  
+   Make sure there is no gap between the main PCB, O-ring and plate when viewed from the side.  
 
-1. **JSTケーブルをUSB-Cドーターボードに接続**  
-   ![JSTケーブルをUSB-Cドーターボードに接続](./image/buildguid_jp_100_udbjst.jpg "JSTケーブルをUSB-Cドーターボードに接続")
-   JSTケーブルをUSB-Cドーターボードに接続します  
-   ![JSTケーブルをUSB-Cドーターボードに接続2](./image/buildguid_jp_105_udbjst.jpg "JSTケーブルをUSB-Cドーターボードに接続2")
-   JSTケーブルのコネクタは裏表があるので、写真を参考にして端子が露出していない面を上側にして挿します  
+1. **Connecting JST cable to USB-C daughter board**  
+   ![Connecting JST cable to USB-C daughter board](./image/buildguid_jp_100_udbjst.jpg "Connecting JST cable to USB-C daughter board")
+   Connect JST cable to USB-C daughter board.  
+   ![Connecting JST cable to USB-C daughter board](./image/buildguid_jp_105_udbjst.jpg "Connecting JST cable to USB-C daughter board")
+   Since JST cable connectors have two sides, refer to the photo and insert the connector with the side with no exposed terminals facing up.    
 
-1. **USB-Cドーターボードの取り付け**  
-   ![USB-Cドーターボードの取り付け](./image/buildguid_jp_110_udb.jpg "USB-Cドーターボードの取り付け")
-   USB-Cドーターボードの表面(部品が実装されている面)を上側にして、アルミケースの中央奥にm2 4mmのネジでネジ止めします  
-   ピンセットでネジを掴むとネジ止めしやすくなります
+1. **Installing USB-C daughter board**  
+   ![Installing USB-C daughter board](./image/buildguid_jp_110_udb.jpg "Installing USB-C daughter board")
+   With the surface of the USB-C daughter board (the side where the components are mounted) facing up, screw it into the center back of the aluminum case with m2 4mm screws.    
+   Grab the screws with tweezers to make it easier to screw them in.  
 
-1. **ケースフォームの取り付け**  
-   ![USB-Cドーターボードをケースに取り付け](./image/buildguid_jp_130_udbcase.jpg "USB-Cドーターボードをケースに取り付け")
-   アルミケースの内側のポストとケースフォームの切り欠きの位置を合わせて、アルミケースの内側にケースフォームを敷きます  
-   JSTケーブルをケースフォームの切り込みから引き出しておきます
+1. **Installing case foam**  
+   ![Installing case foam](./image/buildguid_jp_130_udbcase.jpg "Installing case foam")
+   Align the posts inside the aluminum case with the notches in the case foam, and put the case foam inside the aluminum case.    
+   Pull the JST cable through the cutout in the case foam.  
 
-1. **JSTケーブルをメインPCBに接続**  
-   ![JSTケーブルをメインPCBに接続](./image/buildguid_jp_140_casefoam.jpg "JSTケーブルをメインPCBに接続")
-   メインPCBの裏面にあるJSTコネクタ(ベージュ色)にJSTケーブルのコネクタを挿します  
-   ![JSTケーブルをメインPCBに接続2](./image/buildguid_jp_145_casefoam.jpg "JSTケーブルをメインPCBに接続2")
-   JSTケーブルのコネクタは裏表があるので、写真を参考にして端子が露出していない面を上側にして挿します  
+1. **Connecting JST cable tom main PCB**  
+   ![Connecting JST cable tom main PCB](./image/buildguid_jp_140_casefoam.jpg "Connecting JST cable tom main PCB")
+   Insert the JST cable connector into the JST connector (beige color) on the back of the main PCB.  
+   ![Connecting JST cable tom main PCB](./image/buildguid_jp_145_casefoam.jpg "Connecting JST cable tom main PCB")
+   Since JST cable connectors have two sides, refer to the photo and insert the connector with the side with no exposed terminals facing up.    
 
-1. **メインPCBをケースに取り付け**  
-   ![メインPCBをケースに取り付け](./image/buildguid_jp_150_mainpcbcase.jpg "メインPCBをケースに取り付け")
-   メインPCBの奥側を少し持ち上げた状態で、アルミケースのブロッカーにメインPCBのブロッカー部分とOリングの間を通します  
-   メインPCB全体を少し持ち上げ、メインPCBの手前側のOリングをアルミケースの手前側のポストの上に乗せます(目視はできません)  
-   メインPCBの奥側のOリングがアルミケースの奥側のポストに軽く当たるまでゆっくり下に押し込みます(目視はできません)  
-   ![Oリングとバックスペース](./image/buildguid_jp_155_mainpcbcase.jpg "Oリングとバックスペース")
-   Oリングが巻き上がってプレートの表面に出てきていないことを確認してください
+1. **Installing main PCB to aluminum case**  
+   ![Installing main PCB to aluminum case](./image/buildguid_jp_150_mainpcbcase.jpg "Installing main PCB to aluminum case")
+   With the back side of the main PCB slightly raised, pass the blocker of the aluminum case between the blocker of the main PCB and the O-ring.    
+   Lift the entire main PCB slightly and place the O-ring on the front side of the main PCB over the post on the front side of the aluminum case (not visible).  
+   Gently push the main PCB down until the O-ring lightly touches the post on the aluminum case (not visible).  
+   ![O-ring and back space](./image/buildguid_jp_155_mainpcbcase.jpg "O-ring and back space")
+   Make sure the O-ring is not rolled up and coming out of  the plate.  
 
-1. **キーキャップの取り付け**  
-   ![キーキャップの取り付け](./image/buildguid_jp_160_keycap.jpg "キーキャップの取り付け")
-   キースイッチにキーキャップを取り付けます
+1. **Installing keycaps**  
+   ![Installing keycaps](./image/buildguid_jp_160_keycap.jpg "Installing keycaps")
+   Installing the keycaps to the key switches.  
 
-1. **USBケーブルの接続**  
-   ![USBケーブルの接続](./image/buildguid_jp_170_complete.jpg "USBケーブルの接続")
-   お手持ちのUSBケーブルをキーボードとPCに接続して完成です  
+1. **Connecting USB cable**  
+   ![Connecting USB cable](./image/buildguid_jp_170_complete.jpg "Connecting USB cable")
+   Connect your USB cable to the keyboard and PC.  
+   Now it is completed.  
 
-## アルミケースからメインPCBを取り外す手順
-- **手で取り外す**  
-  ![PCBの取り外し1](./image/dismount_pcb1.jpg "PCBの取り外し1")
-  キーキャップを取り付けた状態で、最上段の8つのキーキャップに指を掛けてゆっくり上に持ち上げます  
-  固い場合は無理をせず、下記のキーキャッププラーを使う方法で取り外してください  
-- **キーキャッププラーで取り外す**  
-  ![PCBの取り外し2](./image/dismount_pcb2.jpg "PCBの取り外し2")
-  1キー、2キー、-キー、=キーのキーキャップを外し、プレートの切り欠きにキースイッチプラーを引っ掛けて、左右交互に少しずつ持ち上げます  
+## Procedure for removing the main PCB from the aluminum case
+- **Removing it by hand**  
+  ![Removing main PCB by hand](./image/dismount_pcb1.jpg "Removing main PCB by hand")
+  With the keycaps are installed, hook your fingers on the top eight keycaps and slowly lift them upward.    
+  If it is hard, do not force and remove it, use the keycap puller as described below.  
+- **Removing main PCB by keycap puller**  
+  ![Removing main PCB by keycap puller](./image/dismount_pcb2.jpg "Removing main PCB by keycap puller")
+  Remove the keycaps of the '1' & '2' & '-' & '=' keys, hook the key switch puller into the notch in the plate and lift it slightly, alternating left and right.  
   
-  メインPCBがアルミケースから外れたら、メインPCBを少し持ち上げて、メインPCB側のコネクタからJSTケーブルを外します  
-  ※ JSTケーブルを外さないままメインPCBを一気に持ち上げると、コネクタが破損したりJSTケーブルが断線するので注意してください
+  Once the main PCB is off the aluminum case, lift the main PCB slightly and disconnect the JST cable from the connector on the main PCB.  
+  * Be careful not to lift the main PCB all at once without disconnecting the JST cable, since the connector will be damaged and the JST cable will be cut.  
 
-## ご注意
-- JSTケーブルとJSTコネクタはまっすぐに挿し、ゆっくりと奥まで押し込んでください  
-  斜めに挿したまま押し込むとコネクタが破損することがあります
-- プレートのバックスペースキーの上の部分が細く、折れやすくなっていますので、無理な力を掛けないようにしてください
-- キースイッチの取り付けと取り外しを繰り返すと、キースイッチのピンとソケットの接触が悪くなることがあります  
-  接触が悪くなった場合は、ラジオペンチなどでキースイッチのピンを水平方向に少し(20度ぐらい)ねじってみてください
+## Cautions
+- Insert the JST cable and JST connector straight and push it in slowly and deeply.    
+  The connector may be damaged if it is pushed in while inserted at an angle.  
+- The upper part of the backspace key on the plate is thin and easily broken, so do not apply excessive force.
+- Repeated installation and removal of the key switches may result in poor contact between the keyswitch pins and the socket.  
+  If contact becomes poor, try twisting the key switch pin slightly (about 20 degrees) horizontally with longnose pliers or something.
