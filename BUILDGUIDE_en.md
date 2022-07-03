@@ -28,22 +28,22 @@ Please prepare the following parts and tools separately from the kit
 ### Parts
 | Name | Spec | Quantity |
 | ----- | ----- | ----- |
-| Key switch | CherryMX compatible keyswitch, 5pins(recommended) | 67 |
+| Key switch | CherryMX compatible key switch, 5pins(recommended) | 67 |
 | Keycap | CherryMX compatible keycap, 1.75U Shift key(required) | 67 |
-| Stabilizer | Durock V2 etc | 6.25U 1set, 2U 3 set |
-| USB cable | The connector on the keyboard side is USB-C | 1 |
-| Grease for lubrication | Krytox 205g0(recommended) | several grams |
+| Stabilizer | Durock V2, etc | 6.25U * 1set and 2U * 3set |
+| USB cable | The connector on the keyboard side must be USB-C | 1 |
+| Grease for lubrication | Krytox 205g0(recommended) | a few grams |
 
 ### Tools
 | Name | Use | Necessity | Example |
 | ----- | ----- | ----- | ----- |
-| Phillips screwdriver (No.0) | Install the USB-C daughter board | Required | General purpose item |
-| Key switch puller | Pull out the key switch | Almost required if replacing key switches | [Kbdfans Switch and Keycaps Puller](https://kbdfans.com/products/kbdfans-switch-and-keycaps-puller?variant=39615445827723) |
-| Key switch opener | Disassemble the key switch | Almost required if lubricating key switches | [Gateron Switch Opener](https://kbdfans.com/products/gateron-switch-opener) <br> [KBDFANS x ai03 2in1 Aluminum Switch Opener](https://kbdfans.com/products/gb-2-in-1-machined-aluminum-switch-opener) |
-| Keycap puller | Remove the keycap | Better to have it if replacing keycaps | [Kbdfans Switch and Keycaps Puller](https://kbdfans.com/products/kbdfans-switch-and-keycaps-puller?variant=39615445827723) |
+| Phillips screwdriver (No.0) | Install USB-C daughter board | Required | General purpose item |
+| Key switch puller | Pull out key switch | Almost required if replacing key switches | [Kbdfans Switch and Keycaps Puller](https://kbdfans.com/products/kbdfans-switch-and-keycaps-puller?variant=39615445827723) |
+| Key switch opener | Disassemble key switch | Almost required if lubricating key switches | [Gateron Switch Opener](https://kbdfans.com/products/gateron-switch-opener) <br> [KBDFANS x ai03 2in1 Aluminum Switch Opener](https://kbdfans.com/products/gb-2-in-1-machined-aluminum-switch-opener) |
+| Keycap puller | Remove keycap | Better to have it if replacing keycaps | [Kbdfans Switch and Keycaps Puller](https://kbdfans.com/products/kbdfans-switch-and-keycaps-puller?variant=39615445827723) |
 | Longnose pliers | Adjust key switch pins | Required if adjusting pins | General purpose item |
 | Round brush (No.0) | Lubricate key switches and stabilizers | Required if lubricating | [Kbdfans Lube Tools Collection](https://kbdfans.com/products/kbdfans-lube-tools-collection) |
-| Stem holder | Grab a stem when lubricating the stem | Convenient to have | [Kbdfans Lube Tools Collection](https://kbdfans.com/products/kbdfans-lube-tools-collection) |
+| Stem holder | Grab stem when lubricating it | Convenient to have | [Kbdfans Lube Tools Collection](https://kbdfans.com/products/kbdfans-lube-tools-collection) |
 | Tweezers | Holding screws, etc | Convenient to have | [Kbdfans Lube Tools Collection](https://kbdfans.com/products/kbdfans-lube-tools-collection) |
 
 
@@ -51,12 +51,12 @@ Please prepare the following parts and tools separately from the kit
 1. **Attaching rubber feet**  
    ![Rubber feet](./image/buildguid_jp_010_bumpon.jpg "Rubber feet")
    First attach the rubber feet to the aluminum case so that the bottom of the aluminum case is not scratched.  
-   Attach the rubber feet according to the engraved positions on the four corners of the back of the aluminum case.  
+   Attach the rubber feet according to the engraved circle on the four corners of the back of the aluminum case.  
 
 1. **Pasting socket foam**  
    ![Pasting socket foam](./image/buildguid_jp_120_socketfoam.jpg "Pasting socket foam")
    Pasting socket foam is difficult and cannot be redone.  
-   Show how to paste the entire surface and how to paste only a part of it.  
+   There are two methods: one is to paste the entire surface and the other is to paste only a portion of the surface.  
    
    **Practice**  
    First, practice several times without peeling off the release paper on the adhesive surface.  
@@ -65,10 +65,10 @@ Please prepare the following parts and tools separately from the kit
    Straighten any bent or floating parts.  
    ![Pasting socket foam](./image/buildguid_jp_127_socketfoam.jpg "Pasting socket foam")
    Hold the four corners with the back side (part mounting surface) of the main PCB facing down.  
-   Looking at the main PCB from directly above, slowly align the notch of the mount post with the main PCB, put it on the foam.  
+   Look at the main PCB from directly above, align the notch of the mount post with the main PCB, slowly put it on the foam.  
 
    **When pasting the entire surface**  
-   Peel off the release paper on the adhesive surface of the socket foam, and paste the main PCB and socket foam according to the procedure you practiced.  
+   Peel off the release paper on the socket foam, and paste the main PCB and socket foam according to the procedure you practiced.  
    Once pasted, it cannot be removed cleanly, so recommend not removing it, even if it is slightly displaced.  
    (even if it can be removed, the socket foam will be stretched and the position will not match)  
    
@@ -79,9 +79,9 @@ Please prepare the following parts and tools separately from the kit
 
 1. **Assembling the stabilizers**  
    Please refer to [this YouTube video](https://www.youtube.com/watch?v=-vhpHjlkRgQ).  
-   Apply thick grease to the outside of the stem and the inside of the housing.  
+   Apply a little thick grease to the outside of the stem and the inside of the housing.  
    Insert the stem into the housing.  
-   Apply thick grease from the tip of the wire to the part that bends at a right angle.  
+   Apply a little thick grease from the tip of the wire to the part that bends at a right angle.  
    Insert the wire into the stem and fit the wire into the housing.  
 
 1. **Installing stabilizers**  
