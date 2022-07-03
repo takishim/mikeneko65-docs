@@ -84,28 +84,28 @@ Please prepare the following parts and tools separately from the kit
    Apply thick grease from the tip of the wire to the part that bends at a right angle.  
    Insert the wire into the stem and fit the wire into the housing.  
 
-1. **スタビライザーの取り付け**  
-   ![スタビライザーの取り付け](./image/buildguid_jp_030_stabilizer.jpg "スタビライザーの取り付け")
-   先にネジ穴がない側をメインPCBのスタビライザー取り付け穴の大きい方に挿し込みます  
-   次にネジ穴がある側をメインPCBの裏面からネジ止めします  
-   スタビライザーのハウジングがメインPCBから浮いていなこと、ガタつきがないことを確認してください
+1. **Installing stabilizers**  
+   ![Installing stabilizers](./image/buildguid_jp_030_stabilizer.jpg "Installing stabilizers")
+   First, insert the side without screw holes into the larger stabilizer mounting holes on the main PCB.  
+   Next, screw the side with screw holes from the back side of the main PCB.  
+   Make sure that the stabilizer housing is not lifted off the main PCB and that there is no rattling.  
 
-1. **スイッチフォームの取り付け**  
-   ![スイッチフォームの取り付け](./image/buildguid_jp_040_switchfoam.jpg "スイッチフォームの取り付け")
-   メインPCBの表面にスイッチフォームを乗せます  
-   スタビライザー部分はスイッチフォームがスタビライザーのワイヤーの下にくるように滑り込ませます
+1. **Installing switch foam**  
+   ![Installing switch foam](./image/buildguid_jp_040_switchfoam.jpg "Installing switch foam")
+   Place the switch foam on the main PCB.  
+   Slide the switch foam so that it is under the stabilizer wires.  
 
-1. **PCBフォームの取り付け**  
-   ![PCBフォームの取り付け](./image/buildguid_jp_050_pcbfoam.jpg "PCBフォームの取り付け")
-   スタビライザーの位置に合わせて、メインPCBの表面にPCBフォームを乗せます
+1. **Installing PCB foam**  
+   ![Installing PCB foam](./image/buildguid_jp_050_pcbfoam.jpg "Installing PCB foam")
+   Place PCB foam on the main PCB in line with the stabilizer position.  
 
-1. **プレートの取り付け**
-   ![プレートの取り付け](./image/buildguid_jp_060_plate.jpg "プレートの取り付け")
-   キースイッチの穴に合わせて、PCBフォームの上にプレートを乗せます
+1. **Installing plate**
+   ![Installing plate](./image/buildguid_jp_060_plate.jpg "Installing plate")
+   Place the plate on the PCB foam, aligning it with the hole in the key switches.  
 
-1. **キースイッチのルブ(グリス塗布)**  
-   必須ではありませんが、打鍵感と打鍵音を良くするためにルブすることを強くおすすめします  
-   [こちら](https://www.youtube.com/watch?v=44Wv4OGdmu4)のYouTube動画が参考になります  
+1. **Lubricating key switches**  
+   Although not required, it is highly recommended to lubricate the key switches to improve the key feel and sound.  
+   Please refer to [this YouTube video](https://www.youtube.com/watch?v=44Wv4OGdmu4).    
 
 1. **キースイッチの取り付け**  
    ![キースイッチの取り付け](./image/buildguid_jp_080_keyswitch.jpg "キースイッチの取り付け")
