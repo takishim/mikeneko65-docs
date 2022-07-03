@@ -107,12 +107,12 @@ Please prepare the following parts and tools separately from the kit
    Although not required, it is highly recommended to lubricate the key switches to improve the key feel and sound.  
    Please refer to [this YouTube video](https://www.youtube.com/watch?v=44Wv4OGdmu4).    
 
-1. **キースイッチの取り付け**  
-   ![キースイッチの取り付け](./image/buildguid_jp_080_keyswitch.jpg "キースイッチの取り付け")
-   スイッチフォームの穴とメインPCBのキースイッチのピンの穴の位置が合っていることを確認します  
-   キースイッチのピンが真っすぐになっていることを確認し、プレートの上からキースイッチをメインPCBに挿し込みます  
-   (斜めに挿し込むと、ピンが折れたり、ソケットが破損することがあるので注意してください)  
-   側面から見て、プレートとキースイッチ、キースイッチとメインPCBの間にすき間がなく、均一に取り付けられていることを確認してください
+1. **Installing key switches**  
+   ![Installing key switches](./image/buildguid_jp_080_keyswitch.jpg "Installing key switches")
+   Check that the holes in the switch foam align with the key switch pin holes on the main PCB.  
+   Check that the pins of the key switch are straight and insert the key switch into the main PCB from the top of the plate.  
+   (Be careful not to insert at an angle, as this may break the pins or damage the socket)  
+   Make sure that there are no gaps between the plate and the keyswitch, and between the keyswitch and the main PCB, viewed from the side, and that they are evenly installed.  
 
 1. **Oリングの取り付け**  
    メインPCBとプレートの間にOリングを取り付けます  
