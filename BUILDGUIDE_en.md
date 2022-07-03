@@ -169,7 +169,7 @@ Please prepare the following parts and tools separately from the kit
   ![Removing main PCB by keycap puller](./image/dismount_pcb2.jpg "Removing main PCB by keycap puller")
   Remove the keycaps of the '1' & '2' & '-' & '=' keys, hook the key switch puller into the notch in the plate and lift it slightly, alternating left and right.  
   Once the main PCB is off the aluminum case, lift the main PCB slightly and disconnect the JST cable from the connector on the main PCB.  
-  * Be careful not to lift the main PCB all at once without disconnecting the JST cable, since the connector will be damaged and the JST cable will be cut.  
+  (Be careful not to lift the main PCB all at once without disconnecting the JST cable, since the connector will be damaged and the JST cable will be cut)  
 
 ## Cautions
 - Insert the JST cable and JST connector straight and push it in slowly and deeply.    
