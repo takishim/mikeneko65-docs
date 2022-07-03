@@ -90,47 +90,47 @@ Please prepare the following parts and tools separately from the kit
    Next, screw the side with screw holes from the back side of the main PCB.  
    Make sure that the stabilizer housing is not lifted off the main PCB and that there is no rattling.  
 
-1. **Installing switch foam**  
-   ![Installing switch foam](./image/buildguid_jp_040_switchfoam.jpg "Installing switch foam")
+1. **Placing switch foam**  
+   ![Placing switch foam](./image/buildguid_jp_040_switchfoam.jpg "Placing switch foam")
    Place the switch foam on the main PCB.  
    Slide the switch foam so that it is under the stabilizer wires.  
 
-1. **Installing PCB foam**  
-   ![Installing PCB foam](./image/buildguid_jp_050_pcbfoam.jpg "Installing PCB foam")
+1. **Placing PCB foam**  
+   ![Placing PCB foam](./image/buildguid_jp_050_pcbfoam.jpg "Placing PCB foam")
    Place PCB foam on the main PCB in line with the stabilizer position.  
 
-1. **Installing plate**
-   ![Installing plate](./image/buildguid_jp_060_plate.jpg "Installing plate")
+1. **Placing plate**
+   ![Placing plate](./image/buildguid_jp_060_plate.jpg "Placing plate")
    Place the plate on the PCB foam, aligning it with the hole in the key switches.  
 
 1. **Lubricating key switches**  
-   Although not required, it is highly recommended to lubricate the key switches to improve the key feel and sound.  
-   Please refer to [this YouTube video](https://www.youtube.com/watch?v=44Wv4OGdmu4).    
+   Although not required, it is highly recommended to lubricate the key switches to improve the typing feels and sounds.  
+   Please refer to [this YouTube video](https://www.youtube.com/watch?v=44Wv4OGdmu4).  
 
 1. **Installing key switches**  
    ![Installing key switches](./image/buildguid_jp_080_keyswitch.jpg "Installing key switches")
    Check that the holes in the switch foam align with the key switch pin holes on the main PCB.  
    Check that the pins of the key switch are straight and insert the key switch into the main PCB from the top of the plate.  
-   (Be careful not to insert at an angle, as this may break the pins or damage the socket)  
-   Make sure that there are no gaps between the plate and the keyswitch, and between the keyswitch and the main PCB, viewed from the side, and that they are evenly installed.  
+   (Be careful not to insert at an angle, as this may break the pins or damage the sockets)  
+   Make sure that there are no gaps between the plate and the key switches, and between the key switches and the main PCB, viewed from the side, and that they are evenly installed.  
 
 1. **Installing O-ring**  
    Install O-ring between main PCB and plate.  
    ![Installing O-ring](./image/buildguid_jp_090_oring.jpg "Installing O-ring")
    
-   Around the stabilizer on the back side of the backspace key and the front side of the space bar, pass the O-ring through the top surface of the stabilizer, aligning it with the notch in the plate.  
+   Around the backspace and spacebar keys, pass the O-ring through the top surface of the stabilizer, aligning it with the notch in the plate.  
    If the O-ring cannot be secured to the top of the stabilizer, proceed as is once it is in place, as it can be adjusted when the main PCB is installed in the case.  
-   Make sure there is no gap between the main PCB, O-ring and plate when viewed from the side.  
+   Make sure there is no gap and bend between the main PCB, O-ring and plate when viewed from the side.  
 
 1. **Connecting JST cable to USB-C daughter board**  
    ![Connecting JST cable to USB-C daughter board](./image/buildguid_jp_100_udbjst.jpg "Connecting JST cable to USB-C daughter board")
    Connect JST cable to USB-C daughter board.  
    ![Connecting JST cable to USB-C daughter board](./image/buildguid_jp_105_udbjst.jpg "Connecting JST cable to USB-C daughter board")
-   Since JST cable connectors have two sides, refer to the photo and insert the connector with the side with no exposed terminals facing up.    
+   Since JST cable connectors have front and back sides, refer to the photo and insert the connector with the side with no exposed terminals facing up.    
 
 1. **Installing USB-C daughter board**  
    ![Installing USB-C daughter board](./image/buildguid_jp_110_udb.jpg "Installing USB-C daughter board")
-   With the surface of the USB-C daughter board (the side where the components are mounted) facing up, screw it into the center back of the aluminum case with m2 4mm screws.    
+   With the surface of the USB-C daughter board (the side where the components are mounted) facing up, screw it into the center back of the aluminum case with four m2 4mm screws.  
    Grab the screws with tweezers to make it easier to screw them in.  
 
 1. **Installing case foam**  
@@ -142,7 +142,7 @@ Please prepare the following parts and tools separately from the kit
    ![Connecting JST cable tom main PCB](./image/buildguid_jp_140_casefoam.jpg "Connecting JST cable tom main PCB")
    Insert the JST cable connector into the JST connector (beige color) on the back of the main PCB.  
    ![Connecting JST cable tom main PCB](./image/buildguid_jp_145_casefoam.jpg "Connecting JST cable tom main PCB")
-   Since JST cable connectors have two sides, refer to the photo and insert the connector with the side with no exposed terminals facing up.    
+   Since JST cable connectors have front and back sides, refer to the photo and insert the connector with the side with no exposed terminals facing up.    
 
 1. **Installing main PCB to aluminum case**  
    ![Installing main PCB to aluminum case](./image/buildguid_jp_150_mainpcbcase.jpg "Installing main PCB to aluminum case")
