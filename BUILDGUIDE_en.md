@@ -52,6 +52,7 @@ Please prepare the following parts and tools separately from the kit
    ![Rubber feet](./image/buildguid_jp_010_bumpon.jpg "Rubber feet")
    First attach the rubber feet to the aluminum case so that the bottom of the aluminum case is not scratched.  
    Attach the rubber feet according to the engraved positions on the four corners of the back of the aluminum case.  
+
 1. **Pasting socket foam**  
    ![Pasting socket foam](./image/buildguid_jp_120_socketfoam.jpg "Pasting socket foam")
    Pasting socket foam is difficult and cannot be redone.  
@@ -76,60 +77,72 @@ Please prepare the following parts and tools separately from the kit
    The area to peel off is about 10 square mm per place, and the place to peel off is about 7-8 places where the width is not narrow.  
    Cut a part of the release paper with scissors and paste the main PCB and socket foam according to the procedure you practiced.
 
-1. **スタビライザーの組み立て**  
-   [こちら](https://www.youtube.com/watch?v=-vhpHjlkRgQ)のYouTube動画を参考にしてください  
-   ステムの外側とハウジングの内側に厚めにグリスを塗ります  
-   ハウジングにステムを挿し込みます  
-   ワイヤーの先端から直角に曲がってる部分にかけてグリスを厚めに塗ります  
-   ステムにワイヤーを挿し込み、ハウジングにワイヤーをはめ込みます  
+1. **Assembling the stabilizers**  
+   Please refer to [this YouTube video](https://www.youtube.com/watch?v=-vhpHjlkRgQ).  
+   Apply thick grease to the outside of the stem and the inside of the housing.  
+   Insert the stem into the housing.  
+   Apply thick grease from the tip of the wire to the part that bends at a right angle.  
+   Insert the wire into the stem and fit the wire into the housing.  
+
 1. **スタビライザーの取り付け**  
    ![スタビライザーの取り付け](./image/buildguid_jp_030_stabilizer.jpg "スタビライザーの取り付け")
    先にネジ穴がない側をメインPCBのスタビライザー取り付け穴の大きい方に挿し込みます  
    次にネジ穴がある側をメインPCBの裏面からネジ止めします  
    スタビライザーのハウジングがメインPCBから浮いていなこと、ガタつきがないことを確認してください
+
 1. **スイッチフォームの取り付け**  
    ![スイッチフォームの取り付け](./image/buildguid_jp_040_switchfoam.jpg "スイッチフォームの取り付け")
    メインPCBの表面にスイッチフォームを乗せます  
    スタビライザー部分はスイッチフォームがスタビライザーのワイヤーの下にくるように滑り込ませます
+
 1. **PCBフォームの取り付け**  
    ![PCBフォームの取り付け](./image/buildguid_jp_050_pcbfoam.jpg "PCBフォームの取り付け")
    スタビライザーの位置に合わせて、メインPCBの表面にPCBフォームを乗せます
+
 1. **プレートの取り付け**
    ![プレートの取り付け](./image/buildguid_jp_060_plate.jpg "プレートの取り付け")
    キースイッチの穴に合わせて、PCBフォームの上にプレートを乗せます
+
 1. **キースイッチのルブ(グリス塗布)**  
    必須ではありませんが、打鍵感と打鍵音を良くするためにルブすることを強くおすすめします  
    [こちら](https://www.youtube.com/watch?v=44Wv4OGdmu4)のYouTube動画が参考になります  
+
 1. **キースイッチの取り付け**  
    ![キースイッチの取り付け](./image/buildguid_jp_080_keyswitch.jpg "キースイッチの取り付け")
    スイッチフォームの穴とメインPCBのキースイッチのピンの穴の位置が合っていることを確認します  
    キースイッチのピンが真っすぐになっていることを確認し、プレートの上からキースイッチをメインPCBに挿し込みます  
    (斜めに挿し込むと、ピンが折れたり、ソケットが破損することがあるので注意してください)  
    側面から見て、プレートとキースイッチ、キースイッチとメインPCBの間にすき間がなく、均一に取り付けられていることを確認してください
+
 1. **Oリングの取り付け**  
    メインPCBとプレートの間にOリングを取り付けます  
    ![Oリングの取り付け](./image/buildguid_jp_090_oring.jpg "Oリングの取り付け")
    バックスペースキーの奥側とスペースバーの手前側のスタビライザーは、プレートの切り欠きに合わせてOリングをスタビライザーの上面に通します  
    Oリングがスタビライザーの上面に固定できない場合は、メインPCBをケースに取り付ける際に調整できるので、いったんそのまま進めてください  
    側面から見て、メインPCBとOリングとプレートの間に隙間がないことを確認してください
+
 1. **JSTケーブルをUSB-Cドーターボードに接続**  
    ![JSTケーブルをUSB-Cドーターボードに接続](./image/buildguid_jp_100_udbjst.jpg "JSTケーブルをUSB-Cドーターボードに接続")
    JSTケーブルをUSB-Cドーターボードに接続します  
    ![JSTケーブルをUSB-Cドーターボードに接続2](./image/buildguid_jp_105_udbjst.jpg "JSTケーブルをUSB-Cドーターボードに接続2")
    JSTケーブルのコネクタは裏表があるので、写真を参考にして端子が露出していない面を上側にして挿します  
+
 1. **USB-Cドーターボードの取り付け**  
    ![USB-Cドーターボードの取り付け](./image/buildguid_jp_110_udb.jpg "USB-Cドーターボードの取り付け")
    USB-Cドーターボードの表面(部品が実装されている面)を上側にして、アルミケースの中央奥にm2 4mmのネジでネジ止めします  
    ピンセットでネジを掴むとネジ止めしやすくなります
+
 1. **ケースフォームの取り付け**  
    ![USB-Cドーターボードをケースに取り付け](./image/buildguid_jp_130_udbcase.jpg "USB-Cドーターボードをケースに取り付け")
    アルミケースの内側のポストとケースフォームの切り欠きの位置を合わせて、アルミケースの内側にケースフォームを敷きます  
    JSTケーブルをケースフォームの切り込みから引き出しておきます
+
 1. **JSTケーブルをメインPCBに接続**  
    ![JSTケーブルをメインPCBに接続](./image/buildguid_jp_140_casefoam.jpg "JSTケーブルをメインPCBに接続")
    メインPCBの裏面にあるJSTコネクタ(ベージュ色)にJSTケーブルのコネクタを挿します  
    ![JSTケーブルをメインPCBに接続2](./image/buildguid_jp_145_casefoam.jpg "JSTケーブルをメインPCBに接続2")
    JSTケーブルのコネクタは裏表があるので、写真を参考にして端子が露出していない面を上側にして挿します  
+
 1. **メインPCBをケースに取り付け**  
    ![メインPCBをケースに取り付け](./image/buildguid_jp_150_mainpcbcase.jpg "メインPCBをケースに取り付け")
    メインPCBの奥側を少し持ち上げた状態で、アルミケースのブロッカーにメインPCBのブロッカー部分とOリングの間を通します  
@@ -137,9 +150,11 @@ Please prepare the following parts and tools separately from the kit
    メインPCBの奥側のOリングがアルミケースの奥側のポストに軽く当たるまでゆっくり下に押し込みます(目視はできません)  
    ![Oリングとバックスペース](./image/buildguid_jp_155_mainpcbcase.jpg "Oリングとバックスペース")
    Oリングが巻き上がってプレートの表面に出てきていないことを確認してください
+
 1. **キーキャップの取り付け**  
    ![キーキャップの取り付け](./image/buildguid_jp_160_keycap.jpg "キーキャップの取り付け")
    キースイッチにキーキャップを取り付けます
+
 1. **USBケーブルの接続**  
    ![USBケーブルの接続](./image/buildguid_jp_170_complete.jpg "USBケーブルの接続")
    お手持ちのUSBケーブルをキーボードとPCに接続して完成です  
