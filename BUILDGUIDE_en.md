@@ -147,7 +147,7 @@ Please prepare the following parts and tools separately from the kit
 1. **Installing main PCB to aluminum case**  
    ![Installing main PCB to aluminum case](./image/buildguid_jp_150_mainpcbcase.jpg "Installing main PCB to aluminum case")
    With the back side of the main PCB slightly raised, pass the blocker of the aluminum case between the blocker of the main PCB and the O-ring.    
-   Lift the entire main PCB slightly and place the O-ring on the front side of the main PCB over the post on the front side of the aluminum case (not visible).  
+   Lift the entire main PCB slightly and put the O-ring on the front side of the main PCB over the post on the front side of the aluminum case (not visible).  
    Gently push the main PCB down until the O-ring lightly touches the post on the aluminum case (not visible).  
    ![O-ring and back space](./image/buildguid_jp_155_mainpcbcase.jpg "O-ring and back space")
    Make sure the O-ring is not rolled up and coming out of  the plate.  
@@ -158,18 +158,16 @@ Please prepare the following parts and tools separately from the kit
 
 1. **Connecting USB cable**  
    ![Connecting USB cable](./image/buildguid_jp_170_complete.jpg "Connecting USB cable")
-   Connect your USB cable to the keyboard and PC.  
-   Now it is completed.  
+   Connect your USB cable to the keyboard and PC and now it is completed.  
 
 ## Procedure for removing the main PCB from the aluminum case
 - **Removing it by hand**  
   ![Removing main PCB by hand](./image/dismount_pcb1.jpg "Removing main PCB by hand")
-  With the keycaps are installed, hook your fingers on the top eight keycaps and slowly lift them upward.    
-  If it is hard, do not force and remove it, use the keycap puller as described below.  
+  With the keycaps are installed, hook your fingers on the top eight keycaps and slowly lift them upward.  
+  If it is hard, do not force and pull up, use the keycap puller as described below.  
 - **Removing main PCB by keycap puller**  
   ![Removing main PCB by keycap puller](./image/dismount_pcb2.jpg "Removing main PCB by keycap puller")
   Remove the keycaps of the '1' & '2' & '-' & '=' keys, hook the key switch puller into the notch in the plate and lift it slightly, alternating left and right.  
-  
   Once the main PCB is off the aluminum case, lift the main PCB slightly and disconnect the JST cable from the connector on the main PCB.  
   * Be careful not to lift the main PCB all at once without disconnecting the JST cable, since the connector will be damaged and the JST cable will be cut.  
 
@@ -177,5 +175,5 @@ Please prepare the following parts and tools separately from the kit
 - Insert the JST cable and JST connector straight and push it in slowly and deeply.    
   The connector may be damaged if it is pushed in while inserted at an angle.  
 - The upper part of the backspace key on the plate is thin and easily broken, so do not apply excessive force.
-- Repeated installation and removal of the key switches may result in poor contact between the keyswitch pins and the socket.  
-  If contact becomes poor, try twisting the key switch pin slightly (about 20 degrees) horizontally with longnose pliers or something.
+- Repeated installation and removal of the key switches may result in poor contact between the key switch pins and the socket.  
+  If contact becomes poor, try twisting the key switch pins slightly (about 20 degrees) horizontally with longnose pliers or something.
